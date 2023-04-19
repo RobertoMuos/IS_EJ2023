@@ -1,0 +1,219 @@
+Index: src/main/java/org/example/Especialidad.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package org.example;\r\n\r\npublic class Especialidad {\r\n\r\n\r\n\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/org/example/Especialidad.java b/src/main/java/org/example/Especialidad.java
+--- a/src/main/java/org/example/Especialidad.java	(revision 149e4940b002e50158153773eefefffb3dbd7c2d)
++++ b/src/main/java/org/example/Especialidad.java	(date 1681922339472)
+@@ -4,4 +4,5 @@
+ 
+ 
+ 
++
+ }
+Index: src/main/java/org/example/Grupo.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package org.example;\r\n\r\npublic class Grupo {\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/org/example/Grupo.java b/src/main/java/org/example/Grupo.java
+--- a/src/main/java/org/example/Grupo.java	(revision 149e4940b002e50158153773eefefffb3dbd7c2d)
++++ b/src/main/java/org/example/Grupo.java	(date 1681921956579)
+@@ -1,4 +1,7 @@
+ package org.example;
+ 
+ public class Grupo {
++
++
++
+ }
+Index: src/main/java/org/example/Catedratico.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package org.example;\r\n\r\npublic class Catedratico {\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/org/example/Catedratico.java b/src/main/java/org/example/Catedratico.java
+--- a/src/main/java/org/example/Catedratico.java	(revision 149e4940b002e50158153773eefefffb3dbd7c2d)
++++ b/src/main/java/org/example/Catedratico.java	(date 1681922072089)
+@@ -1,4 +1,8 @@
+ package org.example;
+ 
+ public class Catedratico {
++
++
++
++
+ }
+Index: src/main/java/org/example/Estudiante.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package org.example;\r\n\r\npublic class Estudiante {\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/org/example/Estudiante.java b/src/main/java/org/example/Estudiante.java
+--- a/src/main/java/org/example/Estudiante.java	(revision 149e4940b002e50158153773eefefffb3dbd7c2d)
++++ b/src/main/java/org/example/Estudiante.java	(date 1681921691666)
+@@ -1,4 +1,7 @@
+ package org.example;
+ 
+ public class Estudiante {
++
++
++
+ }
+Index: src/main/java/org/example/Materia.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package org.example;\r\n\r\npublic class Materia {\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/org/example/Materia.java b/src/main/java/org/example/Materia.java
+--- a/src/main/java/org/example/Materia.java	(revision 149e4940b002e50158153773eefefffb3dbd7c2d)
++++ b/src/main/java/org/example/Materia.java	(date 1681921956874)
+@@ -1,4 +1,7 @@
+ package org.example;
+ 
+ public class Materia {
++
++
++
+ }
+Index: src/main/java/org/example/Main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package org.example;\r\n\r\npublic class Main {\r\n    public static void main(String[] args) {\r\n        System.out.println(\"Hello world!\");\r\n        System.out.println(\"pipipipippipipip\");\r\n        System.out.println(\"Pero ahora javier realiza el pull\");\r\n    }\r\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/org/example/Main.java b/src/main/java/org/example/Main.java
+--- a/src/main/java/org/example/Main.java	(revision 149e4940b002e50158153773eefefffb3dbd7c2d)
++++ b/src/main/java/org/example/Main.java	(date 1681921956692)
+@@ -2,8 +2,9 @@
+ 
+ public class Main {
+     public static void main(String[] args) {
+-        System.out.println("Hello world!");
+-        System.out.println("pipipipippipipip");
+-        System.out.println("Pero ahora javier realiza el pull");
++
++
++
++
+     }
+ }
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ExternalStorageConfigurationManager\" enabled=\"true\" />\r\n  <component name=\"MavenProjectsManager\">\r\n    <option name=\"originalFiles\">\r\n      <list>\r\n        <option value=\"$PROJECT_DIR$/pom.xml\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"ProjectRootManager\" version=\"2\" languageLevel=\"JDK_19\" default=\"true\" project-jdk-name=\"19\" project-jdk-type=\"JavaSDK\">\r\n    <output url=\"file://$PROJECT_DIR$/out\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+--- a/.idea/misc.xml	(revision 149e4940b002e50158153773eefefffb3dbd7c2d)
++++ b/.idea/misc.xml	(date 1681921967863)
+@@ -8,7 +8,7 @@
+       </list>
+     </option>
+   </component>
+-  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="19" project-jdk-type="JavaSDK">
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="19" project-jdk-type="JavaSDK">
+     <output url="file://$PROJECT_DIR$/out" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"d90b6d99-0537-49d6-94de-c2fd64a8dd35\" name=\"Changes\" comment=\"Se creo la clase Estudiante\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/misc.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/misc.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2OdWYPpg17cKkuRfhYbH7hg7CJq\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"WebServerToolWindowFactoryState\": \"false\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"d90b6d99-0537-49d6-94de-c2fd64a8dd35\" name=\"Changes\" comment=\"\" />\r\n      <created>1681890985719</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1681890985719</updated>\r\n      <workItem from=\"1681890986982\" duration=\"3000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Se creo la clase Estudiante\">\r\n      <created>1681893523408</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681893523408</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"2\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Se creo la clase Estudiante\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Se creo la clase Estudiante\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 149e4940b002e50158153773eefefffb3dbd7c2d)
++++ b/.idea/workspace.xml	(date 1681922084615)
+@@ -4,20 +4,21 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="d90b6d99-0537-49d6-94de-c2fd64a8dd35" name="Changes" comment="Se creo la clase Estudiante">
++    <list default="true" id="d90b6d99-0537-49d6-94de-c2fd64a8dd35" name="Changes" comment="Se ha creado la clase especialidad">
+       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_04_2023_02_37_a__m___Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_04_2023_02_37_a__m___Changes_.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Catedratico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Catedratico.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Especialidad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Especialidad.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Estudiante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Estudiante.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Grupo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Grupo.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Materia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Materia.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+     <option name="LAST_RESOLUTION" value="IGNORE" />
+-  </component>
+-  <component name="FileTemplateManagerImpl">
+-    <option name="RECENT_TEMPLATES">
+-      <list>
+-        <option value="Class" />
+-      </list>
+-    </option>
+   </component>
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+@@ -28,15 +29,14 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "WebServerToolWindowFactoryState": "false",
+-    "node.js.selected.package.tslint": "(autodetect)",
+-    "vue.rearranger.settings.migration": "true"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
++    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="TaskManager">
+     <task active="true" id="Default" summary="Default task">
+@@ -47,21 +47,9 @@
+       <updated>1681890985719</updated>
+       <workItem from="1681890986982" duration="3000" />
+     </task>
+-    <task id="LOCAL-00001" summary="Se creo la clase Estudiante">
+-      <created>1681893523408</created>
+-      <option name="number" value="00001" />
+-      <option name="presentableId" value="LOCAL-00001" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1681893523408</updated>
+-    </task>
+-    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="3" />
+   </component>
+-  <component name="VcsManagerConfiguration">
+-    <MESSAGE value="Se creo la clase Estudiante" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Se creo la clase Estudiante" />
+-  </component>
+ </project>
+\ No newline at end of file
