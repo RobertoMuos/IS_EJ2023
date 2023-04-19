@@ -34,4 +34,7 @@ public class Estudiante {
     public void setEspecialidad(Especialidad especialidad) {
         this.especialidad = especialidad;
     }
+
+
+
 }

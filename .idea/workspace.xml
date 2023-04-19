@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d90b6d99-0537-49d6-94de-c2fd64a8dd35" name="Changes" comment="Son los cambios que ha hecho Joel">
+    <list default="true" id="d90b6d99-0537-49d6-94de-c2fd64a8dd35" name="Changes" comment="Javier modifico el main con javier">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Estudiante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Estudiante.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Grupo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Grupo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681927942029</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Javier modifico el main con javier">
+      <created>1681925374881</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681925374881</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +114,7 @@
     <MESSAGE value="Se creo la clase Estudiante" />
     <MESSAGE value="Se agregaron las clases catedratico, Grupo, Materia" />
     <MESSAGE value="Son los cambios que ha hecho Joel" />
-    <option name="LAST_COMMIT_MESSAGE" value="Son los cambios que ha hecho Joel" />
+    <MESSAGE value="Javier modifico el main con javier" />
+    <option name="LAST_COMMIT_MESSAGE" value="Javier modifico el main con javier" />
   </component>
 </project>
